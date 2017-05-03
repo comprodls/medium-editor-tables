@@ -34,7 +34,7 @@
     "CHANGES.md"
   ],
   "dependencies": {
-    "medium-editor": "^5.5.1",
+    "medium-editor": "git+https://github.com/comprodls/medium-editor#develop",
     "normalize.css": "^3.0.3"
   }
 }
